@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
