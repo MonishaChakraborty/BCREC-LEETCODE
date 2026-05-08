@@ -1,23 +1,18 @@
 class Solution:
-    def nextGreaterElement(self, nums1, nums2):
-        ans = []
-
-        for x in nums1:
-            found = False
-            result = -1
-
-            # find x in nums2
-            for i in range(len(nums2)):
-                if nums2[i] == x:
-                    # search to the right
-                    for j in range(i + 1, len(nums2)):
-                        if nums2[j] > x:
-                            result = nums2[j]
-                            found = True
-                            break
-                    break
-
-            ans.append(result)
-
-        return ans
+    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        nge = {}
+        stack = []
+        for i in range (len(nums2)-1,-1,-1):
+            while ( len(stack)>0 and stack[-1]<=nums2[i]):
+                stack.pop()
+            if len(stack)==0:
+                nge[nums2[i]]=-1
+            else:
+                nge[nums2[i]]=stack[-1]
+            stack.append(nums2[i])
+        result = []
+        for i in nums1:
+            result.append(nge[i])
+        return result
+        
 
