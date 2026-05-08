@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0238-product-of-array-except-self](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0704-binary-search) |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0496-next-greater-element-i) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MonishaChakraborty/BCREC-LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
